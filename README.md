@@ -1,4 +1,6 @@
 # helloBlazor
+https://developers.cloudflare.com/pages/framework-guides/deploy-a-blazor-site/
+
 
 The build.sh file needs to be executable
 
